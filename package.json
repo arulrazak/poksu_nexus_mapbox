@@ -1,0 +1,23 @@
+{
+  "name": "poksu_nexus_mapbox",
+  "version": "1.0.0",
+  "description": "mapbox nexus js loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arulrazak/poksu_nexus_mapbox.git"
+  },
+  "keywords": [
+    "mapbox",
+    "nexus"
+  ],
+  "author": "poksu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arulrazak/poksu_nexus_mapbox/issues"
+  },
+  "homepage": "https://github.com/arulrazak/poksu_nexus_mapbox#readme"
+}
